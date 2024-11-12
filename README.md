@@ -20,6 +20,8 @@ The main goal of this project is to practice Redux Toolkit for managing the appl
 - **UI Components**: React-Bootstrap
 - **Routing**: React Router DOM
 
-  
+  - Dashboard
 ![Screenshot 2024-11-12 165730](https://github.com/user-attachments/assets/26a141ee-4c00-4368-b766-948009d3bded)
+
+  - Cart
 ![Screenshot 2024-11-12 165744](https://github.com/user-attachments/assets/2cbe4c58-d99f-4a1d-bfd9-667daa160f22)
